@@ -42,3 +42,4 @@ def get_realtime_weather():
 if __name__ == "__main__":
     get_realtime_weather()
     
+
